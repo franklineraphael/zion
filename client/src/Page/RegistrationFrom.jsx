@@ -45,7 +45,6 @@ const RegistrationForm = () => {
   const handleSubmit = (e) => {
     e.preventDefault();
     console.log(formData);
-    // Submit logic here
   };
 
   return (
