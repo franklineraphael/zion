@@ -23,7 +23,7 @@ import Mission from "./About/Mission";
 import Whoweare from "./About/Whoweare";
 import Founder from "./About/Founder";
 import Aboutus from "./Page/Aboutus";
-import RegistrationForm from "./Page/Registrationfrom";
+import RegistrationForm from "./Page/RegistrationForm";
 import Bibleschoolform from "./Onlineregistration/Bibleschoolform";
 import EnquiryForm from "./Page/EnquiryForm";
 
